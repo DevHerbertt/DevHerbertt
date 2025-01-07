@@ -29,4 +29,6 @@ Olá! Eu tenho 17 anos e sou **Desenvolvedor em Formação** com foco em Backend
 
 ## 🚀 Projetos em Destaque   
 - [**Site para Igreja**](https://github.com/DevHerbertt/VilaAurora)  
-  Website responsivo desenvolvido em HTML, CSS e JavaScript, com foco em apresentação de eventos e informações.  
+  Website responsivo desenvolvido em HTML, CSS e JavaScript, com foco em apresentação de eventos e informações.
+  - [**FileFacilite**](https://github.com/DevHerbertt/FileFacilete)  
+  Sistema de manipulação de arquivos e diretórios de maneira mais fácil e escalável, feito em Java 22
