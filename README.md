@@ -2,7 +2,7 @@
 ### Ola eu sou o Herbert Matheus 👋
 
 ## 🧑‍💻 Sobre Mim  
-Olá! Eu tenho 17 anos e sou **Desenvolvedor em Formação** com foco em Backend. Estou cursando **ETEC - Técnico em Desenvolvimento de Sistemas** e buscando oportunidades para aplicar minhas habilidades em Backend. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
+Olá! Eu tenho 18 anos e sou **Desenvolvedor em Formação** com foco em Backend. Estou cursando **ETEC - Técnico em Desenvolvimento de Sistemas** e buscando oportunidades para aplicar minhas habilidades em Backend. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
 
 
  ## 📫 Contato  
