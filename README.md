@@ -30,5 +30,11 @@ Olá! Eu tenho 18 anos e sou **Desenvolvedor em Formação** com foco em Backend
 ## 🚀 Projetos em Destaque   
 - [**Site para Igreja**](https://github.com/DevHerbertt/VilaAurora)  
   Website responsivo desenvolvido em HTML, CSS e JavaScript, com foco em apresentação de eventos e informações.
-- [**FileFacilite**](https://github.com/DevHerbertt/FileFacilete)  
-  Sistema de manipulação de arquivos e diretórios de maneira mais fácil e escalável, feito em Java 22
+- [**ToDO-APP**](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)  
+  Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação JWT e interface responsiva.
+- [**Cadastro de Produtos com Java e Spring Boot**](https://github.com/DevHerbertt/Cadastro-de-Produtos)  
+  Este projeto é uma API RESTful de cadastro de produtos desenvolvida com Java e Spring Boot. 
+  
+  
+
+  
