@@ -2,7 +2,7 @@
 ### Ola eu sou o Herbert Matheus 👋
 
 ## 🧑‍💻 Sobre Mim  
-Olá! Sou **desenvolvedor backend**,Técnico em Desenvolvimento de Sistemas** e buscando oportunidades para aplicar minhas habilidades. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
+Olá! Sou **desenvolvedor backend**,Técnico em Desenvolvimento de Sistemas e buscando oportunidades para aplicar minhas habilidades. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
 
 
  ## 📫 Contato  
