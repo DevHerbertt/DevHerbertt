@@ -2,7 +2,7 @@
 ### Ola eu sou o Herbert Matheus 👋
 
 ## 🧑‍💻 Sobre Mim  
-Olá! Eu tenho 18 anos e sou **Desenvolvedor em Formação** com foco em Backend. Estou cursando **ETEC - Técnico em Desenvolvimento de Sistemas** e buscando oportunidades para aplicar minhas habilidades em Backend. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
+Olá! Sou **desenvolvedor backend**,Técnico em Desenvolvimento de Sistemas** e buscando oportunidades para aplicar minhas habilidades. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
 
 
  ## 📫 Contato  
@@ -33,7 +33,11 @@ Olá! Eu tenho 18 anos e sou **Desenvolvedor em Formação** com foco em Backend
 - [**ToDO-APP**](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)  
   Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação JWT e interface responsiva.
 - [**Cadastro de Produtos com Java e Spring Boot**](https://github.com/DevHerbertt/Cadastro-de-Produtos)  
-  Este projeto é uma API RESTful de cadastro de produtos desenvolvida com Java e Spring Boot. 
+  Este projeto é uma API RESTful de cadastro de produtos desenvolvida com Java e Spring Boot.
+- [**Sarah -SISTEMA AUTOMATIZADO DE RESPOSTAS E
+APOIO HUMANO**](https://github.com/DevHerbertt/SARAH-assistente-virtual)  
+   S.A.R.A.H., uma assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução
+de tarefas computacionais. 
   
   
 
