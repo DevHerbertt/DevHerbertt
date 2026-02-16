@@ -1,45 +1,52 @@
+# Olá, eu sou o Herbert Matheus 👋
 
-### Ola eu sou o Herbert Matheus 👋
+## 🧑‍💻 Sobre Mim
+Sou um **Desenvolvedor Backend** focado no ecossistema **Java & Spring Boot**, com experiência prática no desenvolvimento de APIs escaláveis, automação com **Inteligência Artificial** e infraestrutura moderna. [cite_start]Atualmente, atuo como Desenvolvedor na **Focus Têxtil**, onde aplico soluções de IA e integração de sistemas.
 
-## 🧑‍💻 Sobre Mim  
-Olá! Sou **desenvolvedor backend**,Técnico em Desenvolvimento de Sistemas e buscando oportunidades para aplicar minhas habilidades. Sou apaixonado por aprender, resolver problemas e criar soluções eficientes. 🎯 
+Sou apaixonado por transformar problemas complexos em código limpo e eficiente. 🎯
 
+---
 
- ## 📫 Contato  
-
-- Email: herbertmosth@gmail.com  
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-santos-081061307/)
-[![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/herbertt.mat/)
-
-
-![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevHerbertt&show_icons=true&theme=radical)
-
-
-
-
-## MInhas Tecnologias
-
-<div style="display : inline_block" ></br>
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-<img aLign="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-
+## 📫 Contato
+<div align="left">
+  <a href="mailto:herbertmosth@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/herbert-santos-dev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/herbertt.mat/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-## 🚀 Projetos em Destaque   
-- [**Site para Igreja**](https://github.com/DevHerbertt/VilaAurora)  
-  Website responsivo desenvolvido em HTML, CSS e JavaScript, com foco em apresentação de eventos e informações.
-- [**ToDO-APP**](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)  
-  Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação JWT e interface responsiva.
-- [**Cadastro de Produtos com Java e Spring Boot**](https://github.com/DevHerbertt/Cadastro-de-Produtos)  
-  Este projeto é uma API RESTful de cadastro de produtos desenvolvida com Java e Spring Boot.
-- [**Sarah -SISTEMA AUTOMATIZADO DE RESPOSTAS E
-APOIO HUMANO**](https://github.com/DevHerbertt/SARAH-assistente-virtual)  
-   S.A.R.A.H., uma assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução
-de tarefas computacionais. 
-  
-  
+---
 
-  
+## 🛠️ Minhas Tecnologias
+
+### **Backend & Banco de Dados**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### **DevOps & Inovação**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IA/Ollama](https://img.shields.io/badge/AI_Integration-Ollama-blue?style=for-the-badge&logo=huggingface&logoColor=white)
+
+---
+
+## 🚀 Projetos em Destaque
+
+### 🌟 [Northern Lights - Plataforma Educacional](https://github.com/DevHerbertt/Northern-Lights)
+**Meu projeto mais robusto.** Uma plataforma completa de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. [cite_start]Possui dashboards interativos com **Chart.js** e sistema de correção automática.
+
+### ✅ [ToDO-APP](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)
+[cite_start]Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação **JWT** segura e interface totalmente responsiva.
+
+### 🤖 [S.A.R.A.H.](https://github.com/DevHerbertt/SARAH-assistente-virtual)
+[cite_start]Assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução de tarefas computacionais.
+
+---
+
+## 📊 Estatísticas
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHerbertt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbertt&layout=compact&theme=radical&hide=html,css"/>
+</div>
