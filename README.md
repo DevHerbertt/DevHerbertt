@@ -46,6 +46,4 @@ Assistente virtual baseada em Java capaz de reconhecer e responder a comandos de
 ---
 
 ## 📊 Estatísticas
-<div align="center">
 ![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevHerbertt&show_icons=true&theme=radical)
-</div>
