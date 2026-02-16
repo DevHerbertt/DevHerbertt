@@ -1,7 +1,7 @@
 # Olá, eu sou o Herbert Matheus 👋
 
 ## 🧑‍💻 Sobre Mim
-Sou um **Desenvolvedor Backend** focado no ecossistema **Java & Spring Boot**, com experiência prática no desenvolvimento de APIs escaláveis, automação com **Inteligência Artificial** e infraestrutura moderna. [cite_start]Atualmente, atuo como Desenvolvedor na **Focus Têxtil**, onde aplico soluções de IA e integração de sistemas.
+Sou um **Desenvolvedor Backend** focado no ecossistema **Java & Spring Boot**, com experiência prática no desenvolvimento de APIs escaláveis, automação com **Inteligência Artificial** e infraestrutura moderna. Atualmente, atuo como Desenvolvedor na **Focus Têxtil**, onde aplico soluções de IA e integração de sistemas.
 
 Sou apaixonado por transformar problemas complexos em código limpo e eficiente. 🎯
 
@@ -38,15 +38,14 @@ Sou apaixonado por transformar problemas complexos em código limpo e eficiente.
 **Meu projeto mais robusto.** Uma plataforma completa de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. [cite_start]Possui dashboards interativos com **Chart.js** e sistema de correção automática.
 
 ### ✅ [ToDO-APP](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)
-[cite_start]Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação **JWT** segura e interface totalmente responsiva.
+Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação **JWT** segura e interface totalmente responsiva.
 
 ### 🤖 [S.A.R.A.H.](https://github.com/DevHerbertt/SARAH-assistente-virtual)
-[cite_start]Assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução de tarefas computacionais.
+Assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução de tarefas computacionais.
 
 ---
 
 ## 📊 Estatísticas
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHerbertt&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHerbertt&layout=compact&theme=radical&hide=html,css"/>
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=DevHerbertt&show_icons=true&theme=radical)
 </div>
