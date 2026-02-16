@@ -35,7 +35,7 @@ Sou apaixonado por transformar problemas complexos em código limpo e eficiente.
 ## 🚀 Projetos em Destaque
 
 ### 🌟 [Northern Lights - Plataforma Educacional](https://github.com/DevHerbertt/Northern-Lights)
-**Meu projeto mais robusto.** Uma plataforma completa de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. [cite_start]Possui dashboards interativos com **Chart.js** e sistema de correção automática.
+**Meu projeto mais robusto.** Uma plataforma completa de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. Possui dashboards interativos com **Chart.js** e sistema de correção automática.
 
 ### ✅ [ToDO-APP](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)
 Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação **JWT** segura e interface totalmente responsiva.
