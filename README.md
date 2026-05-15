@@ -1,7 +1,7 @@
 # Olá, eu sou o Herbert Matheus 👋
 
 ## 🧑‍💻 Sobre Mim
-Sou um **Desenvolvedor Backend** focado no ecossistema **Java & Spring Boot**, com experiência prática no desenvolvimento de APIs escaláveis, automação com **Inteligência Artificial** e infraestrutura moderna. Atualmente, atuo como Desenvolvedor na **Focus Têxtil**, onde aplico soluções de IA e integração de sistemas.
+Sou um **Desenvolvedor Backend** focado no ecossistema **Java & Spring Boot**, com experiência prática no desenvolvimento de APIs escaláveis, automação com **Inteligência Artificial** e infraestrutura moderna. 
 
 Sou apaixonado por transformar problemas complexos em código limpo e eficiente. 🎯
 
