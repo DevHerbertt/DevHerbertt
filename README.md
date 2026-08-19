@@ -34,14 +34,16 @@ Sou apaixonado por transformar problemas complexos em código limpo e eficiente.
 
 ## 🚀 Projetos em Destaque
 
+### 🏗️ [AsyncFlow - Arquitetura Orientada a Eventos para Notas Fiscais](https://lnkd.in/dqfpYVBa)
+Sistema distribuído de alta performance para processamento resiliente de documentos fiscais. Utiliza uma abordagem orientada a eventos para desacoplar a ingestão do processamento pesado, garantindo escalabilidade sob alta carga.
+*   **Stack:** Java 21, Spring Boot, AWS SQS, AWS S3 (LocalStack), PostgreSQL, Docker.
+*   **Destaques:** Implementação de Clean Architecture, princípios SOLID e padrões de microsserviços.
+
 ### 🌟 [Northern Lights - Plataforma Educacional](https://github.com/DevHerbertt/Northern-Lights)
-**Meu projeto mais robusto.** Uma plataforma completa de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. Possui dashboards interativos com **Chart.js** e sistema de correção automática.
+Minha plataforma mais robusta de gestão acadêmica desenvolvida com **Java 21**, **Spring Boot** e **JWT**. Inclui dashboards interativos com **Chart.js** e um sistema inteligente de correção automática.
 
 ### ✅ [ToDO-APP](https://github.com/DevHerbertt/ToDO-APP-Sistema-de-Gerenciamento-de-Tarefas)
 Sistema completo de gerenciamento de tarefas com dashboard administrativo, autenticação **JWT** segura e interface totalmente responsiva.
-
-### 🤖 [S.A.R.A.H.](https://github.com/DevHerbertt/SARAH-assistente-virtual)
-Assistente virtual baseada em Java capaz de reconhecer e responder a comandos de voz para execução de tarefas computacionais.
 
 ---
 
